@@ -1,6 +1,6 @@
 ## Printing Face Shield Components for Covid-19 Response 
 
-You can use the [editor on GitHub](https://github.com/isabellaseitz/covidAssistance/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The quick brown fox jumped over the lazy brown dog. You can use the [editor on GitHub](https://github.com/isabellaseitz/covidAssistance/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
